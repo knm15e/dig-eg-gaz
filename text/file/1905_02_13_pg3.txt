@@ -1,17 +1,17 @@
 THB EGYPTIAN GAZETTE, MONDAY, FEBRUARY 13, 1905.
-
-MANCHURIA
+<div>
+<head>MANCHURIA
 
 JAPS CAPTURE FMINENCE
 
-GEN. KAWLMURA’S PLAN
+GEN. KAWLMURA’S PLAN</head>
 
-Tokio, February 11
+<p>Tokio, February 11.</p>
 
-The Japanese captured an eminence to the the south of Chang Chichia last Thursday , driving out two Russian companies.
+<p>The Japanese captured an eminence to the the south of Chang Chichia last Thursday , driving out two Russian companies.
 The Russians are continuously shelling Oynia center and left.
-(Reuter.) 
-
+<p>(Reuter.)</p> 
+</div>
 LONDON, February 11,
 
 It is thought that when the severity of the winter is over, General Kawimura, who’s new army is lightly equipped and has innumerable field guns, will endeavuor to cut the Russian communications north of Vladivostok. (R.)
